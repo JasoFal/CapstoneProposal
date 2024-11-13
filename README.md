@@ -13,3 +13,21 @@ All day: Working on typescript course (I probably did some other stuff as well I
 * Like 12:00 something began filling out form
 
 (I'm not good at this)
+
+# Tropic 
+
+#### A Capstone project
+
+#### By Jason Falk
+
+## Technologies Used
+
+* _Typescript_
+* _React_
+* _Git/Git Bash_
+* _Tailwind_
+* _Firebase_
+
+## Description
+
+A website that sells reptiles and reptile supplies for all your needs.
