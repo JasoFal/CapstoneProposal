@@ -51,3 +51,7 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 
 * reCaptcha Javascript Api
 * MailerSend Api
+
+Is there anything else you'd like your instructor to know?
+
+N/A
