@@ -28,16 +28,18 @@ List the absolute minimum features the project requires to meet this purpose or 
 
 * Account page displaying basic account information
 
+* Styling website
+
 What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
-React
-Typescript
-Firebase
-Firebase Auth
+* React
+* Typescript
+* Firebase
+* Firebase Auth
+* Tailwind
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
-* Styling website
 * Sort item pages by rating/price/brand/category
 * Footer displaying key information
 * Making app mobile/tablet compatible
@@ -45,15 +47,10 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 * Add reCaptcha to account creation
 * password reset
 
-Stretch Goals
-
-* Spin up an SQL server
-
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
-Tailwind
-reCaptcha Javascript Api
-MailerSend Api
+* reCaptcha Javascript Api
+* MailerSend Api
 
 Is there anything else you'd like your instructor to know?
 
