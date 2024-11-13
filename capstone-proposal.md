@@ -43,15 +43,11 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 * Sort item pages by rating/price/brand/category
 * Footer displaying key information
 * Making app mobile/tablet compatible
-* email verification
+* Email verification
 * Add reCaptcha to account creation
-* password reset
+* Password reset
 
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
 * reCaptcha Javascript Api
 * MailerSend Api
-
-Is there anything else you'd like your instructor to know?
-
-NaN
