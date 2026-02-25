@@ -55,3 +55,11 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 Is there anything else you'd like your instructor to know?
 
 N/A
+
+Additional notes
+
+https://ui.shadcn.com/
+https://reactnative.dev/docs/libraries
+https://docs.expo.dev/get-started/create-a-project/
+https://vite.dev/guide/
+https://zustand.docs.pmnd.rs/getting-started/introduction
